@@ -1,0 +1,6 @@
+{
+  "name": "Maison Noir",
+  "description": "Where Culinary Art Meets Timeless Elegance - Award-winning fine dining restaurant in Manhattan, New York.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
